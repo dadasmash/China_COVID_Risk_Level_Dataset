@@ -12,7 +12,7 @@ risk_prop_pref is the proportion of counties within this prefecture classified a
 
 If you want to generate your own treatment variable, you can use high_risk, mid_risk and low_risk. just keep in mind that there are 4 adjustment to the criteria of high/mid/ low risk (it's recorded in the readme.txt)
 
-You want to use the shapfiles (county.shp and pref.shp) to identify the geographic location. (Notes: Shapefiles are not included due to storage limitations on GitHub. However, they are publicly available on the internet.)
+You want to use the shapfiles (county.shp and pref.shp) to identify the geographic location. (Notes: Shapefiles are not included due to storage limitations on GitHub. However, they are publicly available on the internet. you can reach me via email.)
 
 **If you plan to use the COVID risk level dataset in your research, we kindly request that you cite our work:** 
 
