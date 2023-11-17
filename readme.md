@@ -14,6 +14,6 @@ If you want to generate your own treatment variable, you can use high_risk, mid_
 
 You want to use the shapfile (county.shp and pref.shp) to identify the geographic location.
 
-If you plan to use the COVID risk level dataset in your research, we kindly request that you cite our work. 
+**If you plan to use the COVID risk level dataset in your research, we kindly request that you cite our work.** 
 
 Gong, Da and Shang, Zhuocheng and Su, Yaqin and Yan, Andong and Zhang, Qi, Economic Impacts of China’s Zero-COVID Policies (April 17, 2023). Available at SSRN: https://ssrn.com/abstract=4422902 or http://dx.doi.org/10.2139/ssrn.4422902
