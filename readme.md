@@ -1,3 +1,9 @@
+**************************
+Contributors: 
+Da Gong, UniversityofCalifornia,Riverside
+Andong Yan, UniversityofCalifornia,Riverside
+Qi Zhang, Autonomous University of Barcelona
+*************************
 risk_level_cleaned_1215.csv is the cleaned risk level dataset. 
 
 Our data starts from April 2 2021, ends on Dec 15, 2022. The official data reporting ends on Dec 26, 2022, we have the raw data but have not cleaned it yet (the data format in the last ten days is super tricky). 
