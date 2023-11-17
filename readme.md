@@ -1,8 +1,8 @@
 **************************
 Contributors: 
-Da Gong, UniversityofCalifornia,Riverside <br>
-Andong Yan, UniversityofCalifornia,Riverside <br>
-Qi Zhang, Autonomous University of Barcelona <br>
+Da Gong, UniversityofCalifornia,Riverside <br /> 
+Andong Yan, UniversityofCalifornia,Riverside <br /> 
+Qi Zhang, Autonomous University of Barcelona <br /> 
 *************************
 risk_level_cleaned_1215.csv is the cleaned risk level dataset. 
 
