@@ -22,4 +22,11 @@ You want to use the shapfiles (county.shp and pref.shp) to identify the geograph
 
 **If you plan to use the COVID risk level dataset in your research, we kindly request that you cite our work:** 
 
-Gong, Da and Shang, Zhuocheng and Su, Yaqin and Yan, Andong and Zhang, Qi, Economic Impacts of China’s Zero-COVID Policies (April 17, 2023). Available at SSRN: https://ssrn.com/abstract=4422902 or http://dx.doi.org/10.2139/ssrn.4422902
+Da Gong, Zhuocheng Shang, Yaqin Su, Andong Yan, Qi Zhang,
+Economic impacts of China's zero-COVID policies,
+China Economic Review,
+Volume 83,
+2024,
+102101,
+ISSN 1043-951X,
+https://doi.org/10.1016/j.chieco.2023.102101.
