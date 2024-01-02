@@ -1,4 +1,4 @@
-*The format as follow, high_risk and mid_risk, the unlisted rergions are low_risk (None Risk)
+*The format as follow, high_risk and mid_risk, the unlisted rergions are No Risk
 
 in the 2022 March April quarantine wave, the risk level only capture the most strict quanratine policies.
 for example, Shanghai, the entire city locked down for months, but with 0 days of high risk.
