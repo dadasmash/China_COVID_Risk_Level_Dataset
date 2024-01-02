@@ -10,7 +10,7 @@ combined_data_1215_revisitJan012024.csv is the risk level dataset.
 
 Our data starts from April 2 2021, ends on Dec 15, 2022. The official data reporting ends on Dec 26, 2022, we have the raw data but have not cleaned it yet (the data format in the last ten days is super tricky). 
 
-Unlisted counties are defined as counties without _Risk_.
+Unlisted county-date is defined as county without _Risk_ at the given date.
 
 If you want to generate your own treatment variable, you can use high_risk, mid_risk and low_risk. just keep in mind that there are 4 adjustment to the criteria of high/mid/ low risk (it's recorded in the readme.txt)
 
