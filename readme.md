@@ -4,7 +4,7 @@ Da Gong, University of California, Riverside <br />
 Andong Yan, University of California, Riverside <br /> 
 Qi Zhang, Autonomous University of Barcelona <br /> 
 *************************
-This document id updated at Jan01 2024
+This document is updated at Jan01 2024
 *************************
 combined_data_1215_revisitJan012024.csv is the risk level dataset. 
 
